@@ -1,6 +1,6 @@
-CI CD pipeline study
-Git
-Docker
-Jenkins
-Kubernetics
+CI CD pipeline study\
+Git\
+Docker\
+Jenkins\
+Kubernetics\
 SonarQube
